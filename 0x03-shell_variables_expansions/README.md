@@ -10,3 +10,5 @@
   * Add /action to the PATH.
 *Tastk 3:*
   * a script that counts the number of directories in the PATH
+*Task 4:*
+  * This script list environment variables
