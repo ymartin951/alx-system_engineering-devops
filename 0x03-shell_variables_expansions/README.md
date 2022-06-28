@@ -28,3 +28,5 @@
   * this script converts a number from base *2* to base *10*
 *Task 12:*
   * this script prints all possible combinations of two letters, except oo.
+*Task 13:*
+  * this script prints a number with two decimal places, followed by a new line
