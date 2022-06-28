@@ -22,3 +22,5 @@
   * this script prints the result of the addition of 128 and store the value in an evironment variable Named: TRUEKNOWLEDGE
 *Task 9:*
   * this script prints the result of *POWER* divided by *DIVIDE*
+*Task 10:*
+  * this script displays the result of *BREATH* to the power *LOVE* which are environment variables
