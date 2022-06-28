@@ -14,3 +14,7 @@
   * This script list environment variables
 *Task 5:*
   * This cript list all local and environment variables and functions
+*Task 6:*
+  * this script create a new local variable
+*Task 7:*
+  * this script creates a new global variable Named: BEST, Value: School
