@@ -26,3 +26,5 @@
   * this script displays the result of *BREATH* to the power *LOVE* which are environment variables
 *Task 11:*
   * this script converts a number from base *2* to base *10*
+*Task 12:*
+  * this script prints all possible combinations of two letters, except oo.
