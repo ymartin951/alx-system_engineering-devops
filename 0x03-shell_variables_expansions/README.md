@@ -12,3 +12,5 @@
   * a script that counts the number of directories in the PATH
 *Task 4:*
   * This script list environment variables
+*Task 5:*
+  * This cript list all local and environment variables and functions
