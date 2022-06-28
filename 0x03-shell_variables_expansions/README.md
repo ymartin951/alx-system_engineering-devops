@@ -18,3 +18,5 @@
   * this script create a new local variable
 *Task 7:*
   * this script creates a new global variable Named: BEST, Value: School
+*Task 8:*
+  * this script prints the result of the addition of 128 and store the value in an evironment variable Named: TRUEKNOWLEDGE
