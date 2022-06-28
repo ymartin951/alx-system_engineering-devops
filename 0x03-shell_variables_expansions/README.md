@@ -24,3 +24,5 @@
   * this script prints the result of *POWER* divided by *DIVIDE*
 *Task 10:*
   * this script displays the result of *BREATH* to the power *LOVE* which are environment variables
+*Task 11:*
+  * this script converts a number from base *2* to base *10*
